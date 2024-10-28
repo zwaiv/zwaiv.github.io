@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zwaiv.github.io/FPR/sitemap.FPR
